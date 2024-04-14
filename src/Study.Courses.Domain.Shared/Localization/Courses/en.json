@@ -1,0 +1,26 @@
+{
+  "culture": "en",
+  "texts": {
+    "Menu:Home": "Home",
+    "Welcome": "Welcome",
+    "LongWelcomeMessage": "Welcome to the application. This is a startup project based on the ABP framework. For more information, visit abp.io.",
+
+    "Permission:Instructors": "Instructors Management",
+    "Permission:Instructors.Create": "Creating new Instructors",
+    "Permission:Instructors.View": "view Instructors",
+    "Permission:Instructors.Edit": "Editing the Instructors",
+    "Permission:Instructors.Delete": "Deleting the Instructors",
+
+    //"Permission:BookStore": "Book Store",
+    //"Permission:Books": "Book Management",
+    //"Permission:Books.Create": "Creating new books",
+    //"Permission:Books.Edit": "Editing the books",
+    //"Permission:Books.Delete": "Deleting the books",
+
+    "Permission:Subjects": "Subjects Management",
+    "Permission:Subjects.Create": "Creating new Subjects",
+    "Permission:Subjects.Edit": "Editing the Subjects",
+    "Permission:Subjects.View": "View the Subjects",
+    "Permission:Subjects.Delete": "Deleting the Subjects"
+  }
+}
